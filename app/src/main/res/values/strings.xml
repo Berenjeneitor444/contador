@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Contador</string>
+    <string name="toast_button">TOAST</string>
+    <string name="count_button">COUNT</string>
 </resources>
